@@ -16,10 +16,4 @@ S. Mobsite, R. Hostache, L. Berti-Equille, E. Roux, & J. Guerin.
 Not every day is a sunny day: Synthetic cloud injection for deep land cover segmentation robustness evaluation across data sources.
 Proceedings of the Workshop on Machine Learning for Earth Observation (MADCLEAN'25), Sept. 15, 2025.
 
-@inproceedings{mobsite2025clouds,
-  title={Not every day is a sunny day: Synthetic cloud injection for deep land cover segmentation robustness evaluation across data sources},
-  author={Mobsite, S. and Hostache, R. and Berti-Equille, L. and Roux, E. and Guerin, J.},
-  booktitle={Proceedings of the Workshop on Machine Learning for Earth Observation (MADCLEAN'25)},
-  year={2025},
-  month={September 15}
-}
+
