@@ -1,7 +1,7 @@
 # Cloud Location Generation Mask
-
-This GitHub repository contains the code for **cloud location generation masks**.  
-The project demonstrates how to generate and apply masks for simulating or analyzing cloud distributions.
+![Cloud Generation Example](CLOUDGENERATION.png)
+This repository provides the implementation of a **synthetic cloud location mask generator**, designed to create realistic cloud patterns for injection into optical satellite imagery (e.g., Sentinel-2).  
+The masks simulate cloud coverage in varying shapes, densities, and deformations, making them suitable for robustness evaluation of deep learning models in **land cover semantic segmentation (LCS)** tasks.
 
 ## Features
 - Generate cloud masks programmatically
